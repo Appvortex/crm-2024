@@ -86,7 +86,7 @@ const Login = () => {
                                 )
                             }}
                         />
-                        <input type="submit" className="btn" value="Acessar" />
+                        <input type="submit" className="btn" value="Iniciar Sesión" />
                     </form>
                 </div>
             </div>

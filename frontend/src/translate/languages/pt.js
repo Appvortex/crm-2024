@@ -49,7 +49,7 @@ const messages = {
           expiration: "Sua assinatura expira em",
           days: "dias!",
           day: "dia!",
-          expirationToday: "Sua assinatura expira hoje!",
+          expirationToday: "Sua assinatura expira hora!",
         },
         token: "Token",
       },
@@ -61,7 +61,7 @@ const messages = {
         },
         charts: {
           perDay: {
-            title: "Atendimentos hoje: ",
+            title: "Atendimentos Hora: ",
           },
         },
         cards: {
@@ -803,7 +803,7 @@ const messages = {
       },
       ticketsList: {
         called: "Chamado",
-        today: "Hoje",
+        today: "Hora",
         missedCall: "Chamada de voz/vídeo perdida às",
         pendingHeader: "Aguardando",
         assignedHeader: "Atendendo",
